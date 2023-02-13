@@ -1,0 +1,6 @@
+#first query
+
+USE applestock;
+
+SELECT date ,Low 
+FROM aapl
